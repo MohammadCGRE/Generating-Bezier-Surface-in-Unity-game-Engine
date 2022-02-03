@@ -4,7 +4,7 @@ This is the tested framework for gnerating bezier surafce in unity game engine. 
 
 https://youtu.be/bsCOD7kiehE
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ap1UOJpE7Ic/0.jpg)](https://www.youtube.com/watch?v=ap1UOJpE7Ic)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bsCOD7kiehE/0.jpg)](https://www.youtube.com/watch?v=bsCOD7kiehE)
 
 
 ![Gnerating Bezier Surface by C# in unity Game Engine with tutorial from 0 to 100](https://github.com/MohammadCGRE/Generating-Bezier-Surface-in-Unity-Game-Engine/blob/main/surface.jpg)
