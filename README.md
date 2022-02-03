@@ -7,4 +7,4 @@ https://youtu.be/bsCOD7kiehE
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bsCOD7kiehE&t=3579s/0.jpg)](https://www.youtube.com/watch?v=bsCOD7kiehE&t=3579s)
 
-![Gnerating Bezier Curve by C# in unity Game Engine with tutorial from 0 to 100](https://github.com/MohammadCGRE/Generating-Bezier-Surface_in-Unity-Game-Engine/blob/main/temo1.png)
+![Gnerating Bezier Surface by C# in unity Game Engine with tutorial from 0 to 100](https://github.com/MohammadCGRE/Generating-Bezier-Surface_in-Unity-Game-Engine/blob/main/temo1.png)
